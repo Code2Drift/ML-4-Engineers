@@ -1,0 +1,11 @@
+Deeplearning Dataset consist of test (22 MB), training (8,78 MB) and validation (22,3 MB)
+
+structure:
+  - container big tractor b
+  - container big tractor y
+
+  - container small b
+  - container small gy
+
+  - loader tractor r
+  - loader tractor y
